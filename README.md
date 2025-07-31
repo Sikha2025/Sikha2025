@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sikha2025
+- 👋 Hi, I’m @Sikha
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Sikha2025/Sikha2025 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sikha/Sikha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
